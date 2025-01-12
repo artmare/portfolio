@@ -1,0 +1,46 @@
+
+
+
+body{
+    background-color: #bdbaba;
+}
+
+
+
+
+main{
+    border: #888484 solid;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #888484;
+}
+
+.header_links{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.header_links a{
+    border:10px black solid;
+    border-radius: 1000px;
+    background-color: black;
+    padding: 10px;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 20px;
+}
+
+.name{
+    font-size: 20px;
+    font-style: normal;
+    
+    font-weight: 800;
+}
+
+
